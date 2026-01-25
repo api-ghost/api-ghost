@@ -55,7 +55,7 @@ apighost:
 apighost edit filename.yaml
 ```
 
-You can create scenario YAML files in the console window through commands. (Currently not supported in ubuntu environment. In that environment, please write scenarios through GUI.)  [GUI mode installation and usage guide](https://github.com/cod0216/api-ghost-ui) 
+You can create scenario YAML files in the console window through commands. (Currently not supported in ubuntu environment. In that environment, please write scenarios through GUI.)  [GUI mode installation and usage guide](https://github.com/api-ghost/api-ghost-ui) 
 
 <br>
 
